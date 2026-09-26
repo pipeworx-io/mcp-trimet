@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-trimet",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TriMet MCP — live arrivals, stop lookup, vehicle positions and service",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-4fb21fa7dc237fbd2193190662082cbb9d5622da8b4a7ce000e7b4e56ef61d98",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-de68afd3b449713742187bcfe91d0bd7cdd598986b6d05607b98d1167fecf726",
+    "sourceCommit": "66a0692f029179984440cef6938cba7fdd41d66d"
   }
 }

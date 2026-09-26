@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/trimet",
   "title": "Trimet",
   "description": "TriMet MCP — live arrivals, stop lookup, vehicle positions and service",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/trimet",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-trimet",
