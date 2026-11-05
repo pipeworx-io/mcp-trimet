@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-trimet",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "TriMet MCP — live arrivals, stop lookup, vehicle positions and service alerts for Portland, Oregon: TriMet bus, MAX light rail, WES commuter rail and Portland Streetcar, from TriMet's own developer API.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "trimet",
     "gatewaySlug": "trimet",
-    "sourceHash": "v1-816da790ef55017ef22c08174a7c0197e8251af0d7fadbefb90ad4cbfbfe6940",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-d934efed2f56ccbb5184499d82eb856ae36995620aad0458af37ee9a4f75bc12",
+    "sourceCommit": "868e119d526d5409447b7ee2149afba7eb9d2593"
   }
 }
